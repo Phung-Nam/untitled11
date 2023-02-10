@@ -4,7 +4,5 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
-    return 0;
-    int a =10;
+    cout << "Hello World!" << endl; // sua de merge
 }
